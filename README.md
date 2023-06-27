@@ -31,14 +31,14 @@ https://github.com/typicode/json-server#routes
 **🍞 Using:**
 
 ```
-https://free-food-menus-api-production.up.railway.app/<params>
+https://marred-fast-soap.glitch.me/<params>
 ```
 
 **🍕 Examples:**
 
 ```js
 // Use fetch (Copy and paste to browser console to see result!)
-fetch('https://free-food-menus-api-production.up.railway.app/burgers')
+fetch('https://marred-fast-soap.glitch.me/burgers')
   .then((response) => response.json())
   .then((data) => console.log(data));
 
