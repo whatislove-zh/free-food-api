@@ -3,7 +3,7 @@
 APIs free with nearly 700 dishes and 15 menus. You can interact with them simply!
 <br />
 
-#### **Demo:** 
+#### **Demo:**
 
 <br />
 
@@ -31,14 +31,14 @@ https://github.com/typicode/json-server#routes
 **🍞 Using:**
 
 ```
-https://marred-fast-soap.glitch.me/<params>
+https://fortunate-abstracted-archaeology.glitch.me/<params>
 ```
 
 **🍕 Examples:**
 
 ```js
 // Use fetch (Copy and paste to browser console to see result!)
-fetch('https://marred-fast-soap.glitch.me/burgers')
+fetch('https://fortunate-abstracted-archaeology.glitch.me/burgers')
   .then((response) => response.json())
   .then((data) => console.log(data));
 
