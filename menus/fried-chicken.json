@@ -35,15 +35,7 @@
     "rate": 4,
     "country": "Chapel Hill, NC"
   },
-  {
-    "id": "nashville-hot-chicken-family-meal-for-4",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/103169/nashville-hot-chicken-family-meal-for-4.43a0ea9ae1b7663ff18d82f4930fa561.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Big Shake's Hot Chicken",
-    "dsc": "Nashville Hot Chicken Family Meal for 4",
-    "price": 99,
-    "rate": 5,
-    "country": "Franklin, TN"
-  },
+
   {
     "id": "the-family-coop-complete-fried-chicken-dinner-for-8",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132341/complete-fried-chicken-dinner-for-8.512f5bff5f9f22995de1408764b7c0ff.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -53,15 +45,7 @@
     "rate": 5,
     "country": "New York, NY"
   },
-  {
-    "id": "korean-fried-chicken-kit-for-4",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/108361/korean-fried-chicken-kit-for-4.4c354ab17c40cd78402d4697b1e075e7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Seoul Sausage",
-    "dsc": "Korean Fried Chicken Kit for 4",
-    "price": 89,
-    "rate": 5,
-    "country": "Los Angeles, CA"
-  },
+
   {
     "id": "the-family-bird-fried-chicken-for-8",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132849/fried-chicken-for-8.7f488618ab57ac91a8e230eb70a35a19.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -152,15 +136,7 @@
     "rate": 4,
     "country": "Las Vegas, NV"
   },
-  {
-    "id": "pappys-ribs-and-chicken-dinner-for-8",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/106948/pappys-ribs-and-chicken-dinner-for-8.904cebbd327940da15399e0608dffa55.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Pappy's Smokehouse",
-    "dsc": "Pappy's Ribs & Chicken - Dinner for 8",
-    "price": 129,
-    "rate": 4,
-    "country": "St. Louis, MO"
-  },
+
   {
     "id": "game-day-jumbo-fried-chicken-wings-24-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/117190/game-day-jumbo-fried-chicken-wings-24-pack.2fc78e31cee5717c75fba7481e013798.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -215,15 +191,7 @@
     "rate": 5,
     "country": "Centerville, MA"
   },
-  {
-    "id": "korean-bbq-sausage-fried-chicken-kit-for-8",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/108394/korean-bbq-sausage-fried-chicken-kit-for-8.8d3be80287dda24f8153f28e9efab6a4.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Seoul Sausage",
-    "dsc": "Korean BBQ Sausage + Fried Chicken Kit for 8",
-    "price": 119,
-    "rate": 4,
-    "country": "Los Angeles, CA"
-  },
+
   {
     "id": "korean-fried-chicken-10-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/123844/korean-fried-chicken-10-pack.e0b9eb5e82d9ff1718d31d88f78b5e6c.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -368,15 +336,7 @@
     "rate": 4,
     "country": "Nashville, TN"
   },
-  {
-    "id": "chicken-wings-choose-your-own-50-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110867/chicken-wings-choose-your-own-50-pack.cd226df19f0bb4af94ab5f69dc781083.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Magic City Kitchen",
-    "dsc": "Chicken Wings - Choose Your Own 50 Pack",
-    "price": 109,
-    "rate": 4,
-    "country": "Atlanta, GA"
-  },
+
   {
     "id": "balsamic-chicken-rice-dinner-kit-for-2-3",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/125026/balsamic-chicken-rice-dinner-kit-for-2-3.3aab895e18a1169ba481f6e6e54453a8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",

@@ -233,24 +233,7 @@
     "rate": 4,
     "country": "Flavortown, USA"
   },
-  {
-    "id": "18041-ribs-and-pulled-pork-dinner-for-8",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/73762/pappys-ribs-and-pulled-pork-dinner-for-8.b1ebab4ba20903bea0fc8ad73df29ddb.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Pappy's Smokehouse",
-    "dsc": "Pappy's Ribs & Pulled Pork - Dinner for 8",
-    "price": 129,
-    "rate": 5,
-    "country": "St. Louis, MO"
-  },
-  {
-    "id": "18041432432-pulled-pork-pack-serves-12-15",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/73798/pappys-pulled-pork-pack-serves-12-15.1960957d09163524732958e85c5441f7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Pappy's Smokehouse",
-    "dsc": "Pappy's Pulled Pork Pack - Serves 12-15",
-    "price": 139,
-    "rate": 4,
-    "country": "St. Louis, MO"
-  },
+
   {
     "id": "stone-porter-beer-pork-chops-6-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/85748/stone-porter-beer-pork-chops-6-pack.dbfc6a8cd00795a869c9f9900a20401f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -404,15 +387,7 @@
     "rate": 5,
     "country": "Horn Lake, MS"
   },
-  {
-    "id": "homemade-pork-buns-18-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131675/homemade-pork-buns-18-pack.b3a41e86a48c8c484a3f5e87aeedd511.jpeg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "RedFarm",
-    "dsc": "Homemade Pork Buns - 18 Pack",
-    "price": 99,
-    "rate": 4,
-    "country": "New York, NY"
-  },
+
   {
     "id": "3831812-legendary-pulled-pork-z-man-sandwich-kit-8-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/135517/Joe_s-KC-Pork-Z-Man-Product-1.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",

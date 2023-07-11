@@ -26,15 +26,7 @@
     "rate": 4,
     "country": "New York, NY"
   },
-  {
-    "id": "6-sausage-sampler-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/79253/sausage-sampler-pack-serves-10-12.e2d63273c29b923ca4ad80cf63669b12.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Southside Market & Barbeque",
-    "dsc": "Sausage Sampler Pack - Serves 10-12",
-    "price": 89,
-    "rate": 5,
-    "country": "Elgin, TX"
-  },
+
   {
     "id": "20154-bacon-wrapped-cheddar-jalapeno-sausage-slammers",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131365/bacon-wrapped-cheddar-jalapeno-sausage-slammers.1aad356ed0b86ebefde0c645520fddb3.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -197,15 +189,7 @@
     "rate": 5,
     "country": "Houston, TX"
   },
-  {
-    "id": "korean-bbq-sausage-kit-for-8",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132174/korean-bbq-sausage-combo-kit-for-8.8e1946d141ce5cd1e3205c6f0fed21d2.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Seoul Sausage",
-    "dsc": "Korean BBQ Sausage Kit for 8",
-    "price": 99,
-    "rate": 4,
-    "country": "Los Angeles, CA"
-  },
+
   {
     "id": "ms-made-double-smoked-pork-sausage-sampler",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131807/ms-made-double-smoked-pork-sausage-sampler.47b527fab5f80d9a2eb41f2cefcb427f.JPG?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -287,24 +271,7 @@
     "rate": 5,
     "country": "Warrensburg, MO"
   },
-  {
-    "id": "gramercy-tavern-smoked-kielbasa-6-Pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/92800/gramercy-tavern-smoked-kielbasa.c2d5882bf3ed785b85b348f1fe5717a7.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Gramercy Tavern",
-    "dsc": "Gramercy Tavern Smoked Kielbasa - 6 Pack",
-    "price": 99,
-    "rate": 5,
-    "country": "New York, NY"
-  },
-  {
-    "id": "choose-your-own-sausages-8-pack",
-    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132802/choose-your-own-sausages-8-pack.9d02550f44b749006c3c29d8aa7a31a5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    "name": "Bovine & Swine",
-    "dsc": "Choose Your Own Sausages - 32 Pack",
-    "price": 109,
-    "rate": 4,
-    "country": "Jackson, WY"
-  },
+
   {
     "id": "sausages-and-salami-choose-your-own-15-pack",
     "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/136348/Gastros-Sausage-Salami-Sampler-Updated-Product.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
